@@ -2,7 +2,7 @@
 
 **`Software Enginner`**
 
-Me chamo Matheus Duarte Sommer, tenho 20 anos, atualmente, sou estudante do 3º semestre de Engenharia de Software na Unigran. Estou em busca de experiências práticas e oportunidades para aplicar meus conhecimentos acadêmicos, expandir minhas habilidades e contribuir em projetos desafiadores na área de Tecnologia da Informação e Desenvolvimento de Sistemas.
+Me chamo Matheus Duarte Sommer, tenho 20 anos, atualmente, sou estudante do 4º semestre de Engenharia de Software na Unigran. Estou em busca de experiências práticas e oportunidades para aplicar meus conhecimentos acadêmicos, expandir minhas habilidades e contribuir em projetos desafiadores na área de Tecnologia da Informação e Desenvolvimento de Sistemas.
 Tenho um forte interesse em aprender novas tecnologias e aprimorar minhas competências, com um foco especial na area de T.I. 
 Estarei postando meus projetos que irei realizar ao longo do meu curso e todos meus aprendizados
 
